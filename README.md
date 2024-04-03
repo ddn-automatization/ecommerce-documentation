@@ -6,7 +6,7 @@ Este repositorio contiene toda la documentación relacionada con el proyecto de 
 
 En este repositorio encontrarás toda la información relevante sobre el contexto de la aplicación, la solución a utilizar y desplegar, la metodología de trabajo, el diagrama de arquitectura y la estrategia de branching.
 
-La documentación detallada se encuentra en el siguiente enlace: [Documentación del proyecto](/documentacion/E-Commerce_Documentation.docx)
+La documentación detallada se encuentra en el siguiente enlace: [Documentación del proyecto](/documentacion/E-Commerce_Documentation.pdf)
 
 ## Integrantes del grupo
 
